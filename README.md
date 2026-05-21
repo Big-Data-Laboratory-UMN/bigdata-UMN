@@ -32,7 +32,7 @@ For Example:
 - **High Cardinality Support**: Handles hundreds or thousands of visually similar face IDs effectively
 
 <p align="center">
-  <img src="./content/examplearchitecture.png" alt="Architecture of Your Project">
+  <img src="(/blob/6c2e401e7dec2f4135dde53b3e8ebfaafe030d9d/Contoh.jpg)" alt="Architecture of Your Project">
 </p>
 
 ---
