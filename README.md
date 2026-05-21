@@ -32,7 +32,7 @@ For Example:
 - **High Cardinality Support**: Handles hundreds or thousands of visually similar face IDs effectively
 
 <p align="center">
-  ![Conntoh](https://github.com/Big-Data-Laboratory-UMN/Big-Data-Laboratory-UMN/blob/6c2e401e7dec2f4135dde53b3e8ebfaafe030d9d/Contoh.jpg)
+  <img src="Contoh.jpg">
 </p>
 
 ---
