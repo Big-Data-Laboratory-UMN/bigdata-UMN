@@ -31,10 +31,6 @@ For Example:
 - **State-of-the-art Performance**: Significantly outperforms existing GCD methods and ArcFace baseline on fine-grained face recognition tasks
 - **High Cardinality Support**: Handles hundreds or thousands of visually similar face IDs effectively
 
-<p align="center">
-  <img src="Contoh.jpg">
-</p>
-
 ---
 
 ## 🎯 Key Contributions
@@ -65,6 +61,12 @@ Can be include:
 - Input and output for each stage.
 - Tools, frameworks, or technologies used.
 - Data flow or system process
+
+For Example:
+
+<p align="center">
+  <img src="./content/examplearchitecture.png" alt="Architecture of Your Project">
+</p>
 
 ---
 
