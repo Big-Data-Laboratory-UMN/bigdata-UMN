@@ -65,7 +65,7 @@ Can be include:
 For Example:
 
 <p align="center">
-  <img src="./content/examplearchitecture.png" alt="Architecture of Your Project">
+  <img src="examplearchitecture.png" alt="Architecture of Your Project">
 </p>
 
 ---
